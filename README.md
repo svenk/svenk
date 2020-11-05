@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here at http://github.com/svenk you find a couple of open source software I published. Since I typically commit
+with `<user@computer-name>` credentials, my contribution activity is sparse.
+
+I also publish my work over there at Bitbucket: http://bitbucket.org/svek/
+However, most of my code resides in closed-access selfhosted Gitlab repositories.
+
+
 <!--
 **svenk/svenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
