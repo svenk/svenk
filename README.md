@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Here at https://github.com/svenk you find a couple of open source software I published. Since I typically commit
+Here at https://github.com/svenk you find a couple of open source software I published. Since I ~typically~ _used to_ commit
 with `<user@computer-name>` credentials, my contribution activity is sparse.
 
+See also my gists at https://gist.github.com/svenk.
 I also publish my work over there at Bitbucket: https://bitbucket.org/svek/
 <!--Unfortunately, most of my code resides in closed-access selfhosted Gitlab repositories.-->
 Head over to my personal website at https://svenk.org/ for more links.
